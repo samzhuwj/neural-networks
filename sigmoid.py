@@ -5,4 +5,4 @@ def sigmoid(z):
     """
     sigmoid function
     """    
-    return 1 / (1 + np.exp(-z))
+    return 1/(1+np.exp(-z))
